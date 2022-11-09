@@ -7,7 +7,7 @@ Here are the projects I joined on [Stackup.dev](https://app.stackup.dev/)
 
 ## Quests:
 | Quest Name                                | Status    | Link               | 
-|----|-----------------------------------------------|--------------|--------------------|
+|-----------------------------------------------|--------------|--------------------|
 |[Practicing Linear Regression: Insurance Data](https://app.stackup.dev/quest_page/practicing-linear-regression)              |   Rejected   | [Insurance](https://github.com/dimzachar/stackupdev/tree/master/01_quest_linear_regression_insurance_data)  |
 |[Practicing Logistic Regression: Bank Marketing Data](https://app.stackup.dev/quest_page/practicing-logistic-regression)              |   Rejected   |
 |[Quest 10: Post Learning Exploration](https://app.stackup.dev/quest_page/quest-10-post-learning-exploration)              |   Approved   | 
